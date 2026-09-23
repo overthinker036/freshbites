@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Truffle Burger Supreme","description":"Beef patty, melted cheese, mushrooms and truffle mayo.","category":"Burgers","price_cents":1499,"image_url":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=900&auto=format&fit=crop&q=80"},
+  {"id":2,"name":"Wood-Fired Margherita","description":"Tomato sauce, fresh mozzarella, basil and olive oil.","category":"Pizza","price_cents":1250,"image_url":"https://images.unsplash.com/photo-1579751626657-72bc17010498?w=900&auto=format&fit=crop&q=80"},
+  {"id":3,"name":"Fresh Garden Bowl","description":"Crisp vegetables, leafy greens and a light dressing.","category":"Salads","price_cents":1600,"image_url":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=900&auto=format&fit=crop&q=80"},
+  {"id":4,"name":"Creamy Fettuccine","description":"Fresh pasta with parmesan and cracked black pepper.","category":"Pasta","price_cents":1800,"image_url":"https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&auto=format&fit=crop&q=80"},
+  {"id":5,"name":"Chocolate Brownie","description":"A rich chocolate brownie for a sweet finish.","category":"Desserts","price_cents":650,"image_url":"https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=900&auto=format&fit=crop&q=80"},
+  {"id":6,"name":"Fresh Orange Juice","description":"A refreshing glass of freshly squeezed orange juice.","category":"Drinks","price_cents":450,"image_url":"https://images.unsplash.com/photo-1613478223719-2ab802602423?w=900&auto=format&fit=crop&q=80"}
+]
